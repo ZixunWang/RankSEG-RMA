@@ -1,0 +1,3 @@
+METHOD: rankseg_ba
+PARAMS:
+  allow_overlap: False

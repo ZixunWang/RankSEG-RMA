@@ -1,0 +1,5 @@
+METHOD: rankseg_remap
+PARAMS:
+  allow_overlap: False
+  opt_metric: iou
+  to_nonverlap_method: greedy_parallel

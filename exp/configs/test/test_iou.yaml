@@ -1,0 +1,22 @@
+ITER:
+  test_epochs: -1
+  log_iters: 10
+  save_pred: False
+  remove_old: True
+
+INF:
+  ratios: [1]
+  flip: False
+  stride_rate: 0.6667
+
+METRIC:
+  accuracyD: True
+  accuracyI: True
+  accuracyC: True
+  ECED: False
+  ECEI: False
+  SCED: False
+  SCEI: False
+  num_bins: 10
+  q: 10
+  q_bar: True

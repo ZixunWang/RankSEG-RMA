@@ -1,0 +1,11 @@
+pyyaml
+tqdm
+
+numpy
+scipy
+nibabel
+
+torch
+torchvision
+torchaudio
+timm

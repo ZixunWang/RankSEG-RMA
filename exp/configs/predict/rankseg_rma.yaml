@@ -1,0 +1,5 @@
+METHOD: rankseg_rma
+PARAMS:
+  allow_overlap: False
+  opt_metric: dice
+  to_nonverlap_method: rma_score
